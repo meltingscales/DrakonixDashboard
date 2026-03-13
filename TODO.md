@@ -1,0 +1,5 @@
+- bandcamp page
+  - search by album
+  - pulls from api
+  - can login
+  - supports playback and media controls
