@@ -19,7 +19,7 @@ Displays weather, Google Calendar events, and RSS feeds in a tiling layout — n
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/DrakonixDashboard
+git clone https://github.com/meltingscales/DrakonixDashboard
 cd DrakonixDashboard
 cargo build --release
 # binary at: target/release/drakonix
