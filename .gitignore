@@ -1,0 +1,3 @@
+.env
+target/
+*.drakonix_gcal.json
